@@ -95,7 +95,7 @@ export default function Home() {
         </a>
 
         <a
-          href="https://Ko-fi.com/bloomexp"
+          href="https://Ko-fi.com/petaltech"
           className="group rounded-lg border border-transparent px-5 py-4 transition-colors hover:border-gray-300 hover:bg-gray-100 hover:dark:border-neutral-700 hover:dark:bg-neutral-800/30"
           target="_blank"
           rel="noopener noreferrer"
@@ -113,4 +113,5 @@ export default function Home() {
       </div>
     </main>
   )
+  <iframe id='kofiframe' src='https://ko-fi.com/petaltech/?hidefeed=true&widget=true&embed=true&preview=true' style='border:none;width:100%;padding:4px;background:#f9f9f9;' height='712' title='petaltech'></iframe>
 }
